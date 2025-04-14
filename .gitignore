@@ -65,3 +65,4 @@ Desktop.ini
 
 **/node_modules/
 **/.nuxt/
+.data
