@@ -64,26 +64,4 @@ Desktop.ini
 /Source/.vs/
 
 **/node_modules/
-src/Kroymans.Websites.Umbraco/wwwroot/404.html
-src/Kroymans.Websites.Umbraco/wwwroot/500.html
-src/Kroymans.Websites.Umbraco/wwwroot/err.txt
-src/Kroymans.Websites.Umbraco/wwwroot/404.htm
-src/Kroymans.Websites.Umbraco/wwwroot/500.htm
-src/Kroymans.Websites.Umbraco/wwwroot/sitemap.xml
-src/Kroymans.Websites.Umbraco/wwwroot/sitemaps/
-src/Kroymans.Websites.Umbraco/wwwroot/static/
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/cd.css
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/package.manifest
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/prevalueeditors/cdMultivalues.controller.js
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/prevalueeditors/cdMultivalues.html
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/propertyeditors/cdSharedLogic.js
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/propertyeditors/checkbox/checkbox.controller.js
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/propertyeditors/checkbox/checkbox.html
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/propertyeditors/dropdownFlexible/dropdownFlexible.controller.js
-src/Kroymans.Websites.Umbraco/App_Plugins/ConditionalDisplayers/propertyeditors/dropdownFlexible/dropdownFlexible.html
-src/Kroymans.Websites.Umbraco/wwwroot/productfeeds
-/src/Kroymans.Websites.Umbraco.UnitTests/App_Plugins
-/src/Kroymans.Websites.Umbraco.UnitTests/appsettings-schema.json
-/src/Kroymans.Websites.Umbraco.UnitTests/appsettings-schema.Umbraco.Cms.json
-/src/Kroymans.Websites.Umbraco.UnitTests/appsettings-schema.Umbraco.Forms.json
-/src/Kroymans.Websites.Umbraco.UnitTests/appsettings-schema.usync.json
+**/.nuxt/

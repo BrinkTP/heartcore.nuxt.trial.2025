@@ -1,0 +1,1 @@
+export { default } from "D:/projects/Local/heartcore.nuxt.trial/src/node_modules/@nuxt/image/dist/runtime/components/NuxtImg.vue"
